@@ -125,3 +125,21 @@ body {
 .resultados {
     margin-top: 20px;
 }
+
+
+
+#contador {
+    font-size: 40px; /* Aumento del tamaño del contador */
+    margin-top: 20px;
+}
+
+.contador-container {
+    text-align: center;
+    margin-top: 50px; /* Ajuste del margen superior */
+}
+
+#cuenta-regresiva {
+    font-size: 36px;
+    font-weight: bold;
+    color: #fff; /* Color de la cuenta regresiva */
+}
